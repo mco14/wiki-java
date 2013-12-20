@@ -1,5 +1,5 @@
 /**
- *  @(#)Wiki.java 0.28 15/10/2012
+ *  @(#)Wiki.java 0.27 15/10/2012
  *  Copyright (C) 2007 - 2013 MER-C and contributors
  *
  *  This program is free software; you can redistribute it and/or
@@ -46,7 +46,7 @@ import javax.security.auth.login.*;
  */
 public class Wiki implements Serializable
 {
-    // Master TODO list:
+    // Master TODO list :
     // *Admin stuff (low priority)
     // *More multiqueries
     // *Generators (hard)
